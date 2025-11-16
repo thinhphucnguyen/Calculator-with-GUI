@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Calculator_FILE /Users/thinhphucnguyen/Desktop/Personal-Project/Calculator/build/Qt_6_10_0_for_macOS-Debug/Calculator.app/Contents/MacOS/Calculator)
+set(__QT_DEPLOY_TARGET_Calculator_TYPE EXECUTABLE)
