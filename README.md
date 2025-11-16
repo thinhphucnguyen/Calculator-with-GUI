@@ -3,6 +3,9 @@
 A simple calculator built with **C++** and **Qt Widgets**. Handles basic math, decimal input, and a few extra buttons like +/- and %.
 Weekend project modifying my simple calculator this time with a working GUI. Aesthetics design modeled after Apple built in calculator
 
+![Demo](CalculatorDemo.gif)
+
+
 ## Features
 - Numbers 0–9
 - Decimal point
