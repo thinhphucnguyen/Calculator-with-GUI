@@ -4,7 +4,7 @@ A simple calculator built with **C++** and **Qt Widgets**. Handles basic math, d
 Weekend project modifying my simple calculator this time with a working GUI. Aesthetics design modeled after Apple built in calculator
 
 <div align="center">
-  <img src="CalculatorDemo.gif" width="400" alt="Demo">
+  <img src="CalculatorDemo.gif" width="300" alt="Demo">
 </div>
 
 ## Features
